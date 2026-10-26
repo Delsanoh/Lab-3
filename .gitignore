@@ -1,11 +1,17 @@
+<<<<<<< HEAD
 # Build
+=======
+>>>>>>> c63e9c527148112418918be0a0cbe278ad241443
 x64/
 Debug/
 Release/
 .vs/
 build/
+<<<<<<< HEAD
 
 # Compiled
+=======
+>>>>>>> c63e9c527148112418918be0a0cbe278ad241443
 *.exe
 *.dll
 *.lib
@@ -13,6 +19,7 @@ build/
 *.pdb
 *.ilk
 *.idb
+<<<<<<< HEAD
 
 # Visual Studio
 *.vcxproj
@@ -20,6 +27,11 @@ build/
 *.vcxproj.user
 
 # Misc
+=======
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+>>>>>>> c63e9c527148112418918be0a0cbe278ad241443
 *.bin
 *.txt
 !CMakeLists.txt
