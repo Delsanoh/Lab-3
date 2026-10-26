@@ -1,0 +1,25 @@
+# Build
+x64/
+Debug/
+Release/
+.vs/
+build/
+
+# Compiled
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.idb
+
+# Visual Studio
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Misc
+*.bin
+*.txt
+!CMakeLists.txt
